@@ -34,6 +34,6 @@
   </project>  
   
   <project remote="virtualization" revision="sumo" name="meta-virtualization" path="sources/meta-virtualization" />
-  <project remote="fiducia" revision="a957a2d0d2b7b59a2396139d55af6157d5723bb9" name="meta-fiducia-bsp-release" path="sources/meta-fiducia-bsp-release" />
+  <project remote="fiducia" revision="sumo" name="meta-fiducia-bsp-release" path="sources/meta-fiducia-bsp-release" />
 
 </manifest>
